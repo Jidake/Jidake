@@ -1,12 +1,5 @@
-Hi, I’m Yurii Svetliakov
+Hi, I’m Yura
 
-Got an undergraduate degree in Applied Math and IT
-
-Currently working in Digital Design (it's a company name)
-
-Done side projects in game dev, image generation, telegram bots
-
-<!---
-1Zero11/1Zero11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+On this page I'm mostly making games on unity and some AI stuff  
+And web apps, which is kinda my main job  
+Though, most of it isn't public...  
