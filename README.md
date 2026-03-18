@@ -1,9 +1,11 @@
 Hi, I’m Yura
 
-My website https://jidake.com
+My website https://jidake.vercel.app/
 
-On this page I make fun stuff with AI and Web
+On this github page I make stuff with AI and web
 
-Currently I'm heavily studying ML
+Currently I'm studying ML and having fun with hyprland
 
-Sometimes I also do gamedev
+I also do gamedev sometimes
+
+Check out my games https://play.google.com/store/apps/developer?id=Jidake
